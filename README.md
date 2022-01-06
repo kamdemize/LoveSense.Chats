@@ -11,7 +11,7 @@ Open the terminal and do "flutter run
 
 Results :
 
-![first page](./assets/images/homepage.jpg)
+![first page](https://github.com/kamdemize/LoveSense.Chats/blob/master/assets/images/homepage.JPG)
 
-![chat page](./assets/images/chatpage.jpg)
+![chat page](https://github.com/kamdemize/LoveSense.Chats/blob/master/assets/images/chatpage.JPG)
 

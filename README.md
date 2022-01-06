@@ -7,5 +7,11 @@ Open the project in vscode.
 
 Chose Device.
 
-open the terminal and do "flutter run".
+Open the terminal and do "flutter run
+
+Results :
+
+![first page](./assets/images/homepage.jpg)
+
+![chat page](./assets/images/chatpage.jpg)
 
